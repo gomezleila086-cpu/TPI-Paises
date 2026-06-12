@@ -40,7 +40,8 @@ python main.py
 
 ## Repositorio GitHub
 
-Agregar aquí el enlace al repositorio.
+## Repositorio GitHub
+https://github.com/gomezleila086-cpu/TPI-Paises
 
 ## Video demostrativo
 
